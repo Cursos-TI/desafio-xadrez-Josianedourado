@@ -33,17 +33,6 @@ int movimentocavalo = 1;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 return 0;
 }
 
